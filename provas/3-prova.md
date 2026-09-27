@@ -1,4 +1,4 @@
-# Trabalho — Artigo Científico: Virtualização
+Artigo Científico: Virtualização
 
 **Instituição:** Faculdade de Tecnologia de Ourinhos – Fatec Ourinhos  
 **Curso:** Análise e Desenvolvimento de Sistemas  
